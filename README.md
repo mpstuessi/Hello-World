@@ -13,7 +13,8 @@ First Repository
 *Hello World*
 
 ## Description
-e=mc^2^
+
 
 ## How-To-Run-Program
 
+**Thank you for reading**
