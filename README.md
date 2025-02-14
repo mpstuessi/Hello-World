@@ -9,12 +9,18 @@ First Repository
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-## Project-Title
-*Hello World*
+## Project Title
+The title is *Hello World*
 
 ## Description
+This is my **first** time using Github
 
+## How To Run Program
 
-## How-To-Run-Program
+## Files used
+
+## Additional Documentation
+
+## Versioning
 
 **Thank you for reading**
