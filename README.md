@@ -13,7 +13,9 @@ First Repository
 The title is *Hello World*
 
 ## Description
-This is my **first** time using Github
+1. This is my **first** time using Github
+2. I hope to grow my Github profile and repositories
+3. Soon I will atatch it to my **resume**
 
 ## How To Run Program
 
@@ -23,4 +25,4 @@ This is my **first** time using Github
 
 ## Versioning
 
-**Thank you for reading**
+That is all, **Thank you for reading**
